@@ -10,6 +10,10 @@ This is a basic 3D simulation of the Earth revolving around the Sun using **Thre
 - Adjustable Earth orbit speed using a slider
 - Responsive UI
 
+## 🖥️ Live Demo
+
+🔗 [View Project Live](https://vaishnavibhawarsolarsystem.netlify.app/)
+
 ## 🛠️ Technologies Used
 
 - HTML, CSS
@@ -24,5 +28,11 @@ This is a basic 3D simulation of the Earth revolving around the Sun using **Thre
 
 1. Download or clone the repository.
 2. Open `index.html` in a browser.
+
+## ✨ Future Improvements
+
+- Add more planets and moons
+- Add stars and space background
+- Add orbit paths
 
 
